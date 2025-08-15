@@ -1,0 +1,5 @@
+4,Atlantis,Borislav Pekic,477,Dystopia,Lastavica
+5,Kandor,Atanasije Stojkovic,233,Drama,Leviathan
+6,Glava secera,Milovan Glisic,201,Horror,Plava ptica
+7,Basne,Dositej Obradovic,223,Drama,Lajosh Vinetu
+8,Tamnica,Vladislav Petkovic Dis,233,Poetry,Klajer
